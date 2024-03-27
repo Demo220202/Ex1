@@ -1,4 +1,4 @@
-name : Deployement Parallel Ex 1
+name : Deployement Ex 2
 on : push
 
 jobs : 
